@@ -1,0 +1,179 @@
+[
+    {
+        "newsId": 1,
+        "id": "1",
+        "title": "Sangbad Pratidin",
+        "newsPaperUrl": "https://www.sangbadpratidin.in/",
+        "newsPaperImage": "https://www.sangbadpratidin.in/wp-content/themes/SANGBADPRATIDIN/assets/images/sangbadpratidin.jpg"
+    },
+    {
+        "newsId": 2,
+        "id": "2",
+        "title": "Anandabazar Patrika",
+        "newsPaperUrl": "https://www.anandabazar.com/",
+        "newsPaperImage": "https://allonlinebanglanewspapers.com/source/upload/ananda-bazar-logo.jpg"
+    },
+    {
+        "newsId": 3,
+        "id": "3",
+        "title": "Bartaman Patrika",
+        "newsPaperUrl": "https://bartamanpatrika.com/home",
+        "newsPaperImage": "https://www.allbanglanewspaper.co/img-files/kolkata/dailynewspapers/bartamanpatrika.png"
+    },
+    {
+        "newsId": 4,
+        "id": "4",
+        "title": "Aajkaal",
+        "newsPaperUrl": "https://www.eaajkaal.in/",
+        "newsPaperImage": "https://s3.amazonaws.com/bookadsnow-live/newspapers/576/detail/Aajkal.png?1514551038"
+    },
+    {
+        "newsId": 5,
+        "id": "5",
+        "title": "Zee 24 Ghanta",
+        "newsPaperUrl": "https://zeenews.india.com/bengali/",
+        "newsPaperImage": "https://bengali.cdn.zeenews.com/bengali/desktop/logo/24Ghanta_nav.png"
+    },
+    {
+        "newsId": 6,
+        "id": "6",
+        "title": "One India Bengali",
+        "newsPaperUrl": "https://bengali.oneindia.com/",
+        "newsPaperImage": "https://i.ibb.co/DLJzD87/oneindia-bengali-og-image-2.jpg"
+    },
+    {
+        "newsId": 7,
+        "id": "7",
+        "title": "Eisamay",
+        "newsPaperUrl": "https://eisamay.com/",
+        "newsPaperImage": "https://i.ibb.co/0j9RXMV/Screenshot-15.png"
+    },
+    {
+        "newsId": 8,
+        "id": "8",
+        "title": "ABP Bangla",
+        "newsPaperUrl": "https://bengali.abplive.com/topic/newspaper",
+        "newsPaperImage": "https://i.ibb.co/sFMMZBp/nw-bengali-og-2.png"
+    },
+    {
+        "newsId": 9,
+        "id": "9",
+        "title": "News18 Bangla",
+        "newsPaperUrl": "https://bengali.news18.com/",
+        "newsPaperImage": "https://i.ibb.co/rdkc8V2/News18-Bangla-logo.png"
+    },
+    {
+        "newsId": 10,
+        "id": "10",
+        "title": "Kolkata 24×7",
+        "newsPaperUrl": "https://kolkata24x7.in/",
+        "newsPaperImage": "https://kolkata24x7.in/wp-content/uploads/2023/02/Kolkata24x7_Bengali_News_am.png"
+    },
+    {
+        "newsId": 11,
+        "id": "11",
+        "title": "Dainik Jugasankha",
+        "newsPaperUrl": "https://jugasankha.in/",
+        "newsPaperImage": "https://i.ibb.co/x6Ztd82/Dainik-Jugasankha-1.jpg"
+    },
+    {
+        "newsId": 12,
+        "id": "12",
+        "title": "Gana Shakti",
+        "newsPaperUrl": "https://ganashakti.com/",
+        "newsPaperImage": "https://bangla.ganashakti.co.in/images/logo.png"
+    },
+    {
+        "newsId": 13,
+        "id": "13",
+        "title": "The Statesman",
+        "newsPaperUrl": "https://epaper.thestatesman.com/t/9256",
+        "newsPaperImage": "https://i.ibb.co/d5wDYgf/statesman-logo-default-pic-1.jpg"
+    },
+    {
+        "newsId": 14,
+        "id": "14",
+        "title": "Puber Kalom",
+        "newsPaperUrl": "https://www.puberkalom.com/",
+        "newsPaperImage": "https://www.puberkalom.com/wp-content/uploads/2022/01/Puber-Kalom-logo.jpg"
+    },
+    {
+        "newsId": 15,
+        "id": "15",
+        "title": "Puber Kalom Epaper",
+        "newsPaperUrl": "https://epaper.puberkalom.com/",
+        "newsPaperImage": "https://epaper.puberkalom.com/uploads/5cb9debb58532.png"
+    },
+    {
+        "newsId": 16,
+        "id": "16",
+        "title": "Desher Katha",
+        "newsPaperUrl": "https://www.dailydesherkatha.net/",
+        "newsPaperImage": "https://i.ibb.co/YBPR5G9/New-Project.jpg"
+    },
+    {
+        "newsId": 17,
+        "id": "17",
+        "title": "Ekdin",
+        "newsPaperUrl": "https://www.ekdin-epaper.com/",
+        "newsPaperImage": "https://www.ekdin-epaper.com/media/2020-09/logo.jpg"
+    },
+    {
+        "newsId": 18,
+        "id": "18",
+        "title": "Uttarbanga Sambad",
+        "newsPaperUrl": "https://www.uttarbangasambad.in/",
+        "newsPaperImage": "https://i.ibb.co/sCWwrjz/New-Project-1.jpg"
+    },
+    {
+        "newsId": 19,
+        "id": "19",
+        "title": "Asomiya Pratidin",
+        "newsPaperUrl": "https://www.asomiyapratidin.in/",
+        "newsPaperImage": "https://i.ibb.co/ZhpB2Vr/Screenshot-17.png"
+    },
+    {
+        "newsId": 20,
+        "id": "20",
+        "title": "BBC News Bangla",
+        "newsPaperUrl": "https://www.bbc.com/bengali",
+        "newsPaperImage": "https://static.wikia.nocookie.net/etv-gspn-bangla/images/6/64/BBC_Bangla_logo.png/revision/latest?cb=20230331025758"
+    },
+    {
+        "newsId": 21,
+        "id": "21",
+        "title": "AajTak Bangla",
+        "newsPaperUrl": "https://bangla.aajtak.in/",
+        "newsPaperImage": "https://i.ibb.co/cxVfKsY/download-1.png"
+    },
+    {
+        "newsId": 22,
+        "id": "22",
+        "title": "tv9 Bangla",
+        "newsPaperUrl": "https://tv9bangla.com/",
+        "newsPaperImage": "https://i.ibb.co/5rG7xWb/TV9-Bangla-logo.png"
+    },
+    {
+        "newsId": 23,
+        "id": "23",
+        "title": "Hindustan Times Bangla",
+        "newsPaperUrl": "https://bangla.hindustantimes.com/",
+        "newsPaperImage": "https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/08/HindustanTimes_Bangla_2021.png/revision/latest/scale-to-width-down/860?cb=20220409081639"
+    },
+    {
+        "newsId": 24,
+        "id": "24",
+        "title": "Amader Malda",
+        "newsPaperUrl": "https://www.aamadermalda.in/",
+        "newsPaperImage": "https://allonlinebanglanewspapers.com/source/upload/20210301071606.jpg"
+    },
+    {
+        "newsId": 25,
+        "id": "25",
+        "title": "Dainik Janam Bhumi",
+        "newsPaperUrl": "https://dainikjanambhumi.co.in/08082023/index.php",
+        "newsPaperImage": "https://dainikjanambhumi.co.in/images/dainik-janambhumi.jpg"
+    }
+
+    
+]

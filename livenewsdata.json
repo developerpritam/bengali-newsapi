@@ -1,0 +1,39 @@
+[
+    {
+        "newsId": 1,
+        "id": "1",
+        "liveNewsTitle": "ABP Ananda Live",
+        "liveNewsId": "PKwLsAu-z10",
+        "liveNewsImage": "https://i.ibb.co/sFMMZBp/nw-bengali-og-2.png"
+    },
+    {
+        "newsId": 2,
+        "id": "2",
+        "liveNewsTitle": "Republic Bangla LIVE",
+        "liveNewsId": "98SQqRKNxWE",
+        "liveNewsImage": "https://www.republicworld.com/assets/images/R.bangla-logo.jpg"
+    },
+    {
+        "newsId": 3,
+        "id": "3",
+        "liveNewsTitle": "News18 Bangla LIVE",
+        "liveNewsId": "k-BJvSepFm0",
+        "liveNewsImage": "https://i.ibb.co/rdkc8V2/News18-Bangla-logo.png"
+    },
+    {
+        "newsId": 4,
+        "id": "4",
+        "liveNewsTitle": "Calcutta News LIVE",
+        "liveNewsId": "VcmpUvIhbvc",
+        "liveNewsImage": "https://i.ibb.co/3CyqngM/Calcutta-News-1.png"
+    },
+    {
+        "newsId": 5,
+        "id": "5",
+        "liveNewsTitle": "TV9 BANGLA NEWS LIVE",
+        "liveNewsId": "xZlDunB6hj4",
+        "liveNewsImage": "https://i.ibb.co/5rG7xWb/TV9-Bangla-logo.png"
+    }
+
+    
+]
